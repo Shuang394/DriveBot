@@ -18,3 +18,11 @@ The logic and chat generation of the Chatbot was done through Specific prompts a
 
 
 Below is the final video submission for our team, which explains more in depth how DriveBot works and demonstrates its functions. 
+
+https://youtu.be/7iZqIrCRfyM
+
+# Additional Work after the Hackathon
+During the Hackathon, our group attempted to add in a function where the chatbot will attach an AI generated image to illustrate the question given. But given the time constraint, our group ended up not including it in our final project.
+
+
+After the hackathon, we were tasked to Investigate and dwell deeper into the Imagine generation, and our conclusion was that AI Image generation was still at it's infancy at the time, and it was extremly difficult to get it to generate anything coherant without a lot of experiment in prompting it. A more deatiled read into our studies can be found in the repository's word dox "AStar".
